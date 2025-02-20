@@ -1,0 +1,95 @@
+/* p {
+    background-color: pink;
+    font-family: Verdana, Dejavu, sans-serif;
+} */
+
+/* .odd{
+    background-color: pink;
+    font-family: Verdana, Dejavu, sans-serif;
+    font-size: 12px;
+}
+
+div.odd{
+    font-size: 24px;
+}
+
+#blueDiv {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenDiv {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+} */
+
+/* button {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.firstButton {
+    background-color: black;
+    color: white;
+}
+
+#secondButton {
+    background-color: yellow;
+} */
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    border: 5px solid blue;
+    margin: 30px;
+    background-color: lightblue;
+    text-align: center;
+} */
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: monospace;
+    background: papayawhip;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    margin: 30px;
+    font-size: 48px;
+    font-weight: 900;
+    color: tomato;
+    background: white;
+    padding: 4px 32px;
+}
+
+ul {
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+}
+
+a {
+    display:flex;
+    justify-content: center;
+    width: 100px;
+    margin: 30px;
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    text-decoration: none;
+}
